@@ -1,0 +1,127 @@
+section {
+    background-color: rgb(236, 21, 21);
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sacramento', cursive;
+    text-decoration-color: white;
+
+}
+.hero {
+    background-color: #40059a;
+    height:100vh;
+
+}
+
+footer {
+    height:500px;
+    background-color:black;
+
+}
+
+footer {
+    height:500px;
+    background-color:black;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 30px;
+
+}
+
+li {
+    text-decoration: none;
+}
+h1 {
+    font-size: 90px;
+    margin: 0;
+}
+p {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
+}
+.hero-text {
+    margin-left: 80px;
+}
+
+.button {
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: coral;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    padding-top:
+    margin-top: 20px;
+}
+
+.hero-area { 
+    display: 80px;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-text {
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+
+.button:hover {
+    background-color: #ef744b;
+}
+
+.button:active {
+    background-color: #a9a9a9;
+    color: #808080;
+}
+
+.logo {
+    height: 80px;
+    margin: 30px;
+}
+
+.socials {
+    padding-bottom: 200px;
+
+}
+
+.social {
+    margin: 20px;
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.headshot {
+    width: 300px;
+    border-radius: 300px;
+}
+
+.headshot-container {
+    display: flex;
+    align-items: center;
+}
+
